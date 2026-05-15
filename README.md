@@ -1,4 +1,4 @@
-# X For You Feed Algorithm
+# X "For You" Feed Algorithm
 
 This repository contains the core recommendation system powering the "For You" feed on X. It combines in-network content (from accounts you follow) with out-of-network content (discovered through ML-based retrieval) and ranks everything using a Grok-based transformer model.
 
